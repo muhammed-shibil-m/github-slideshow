@@ -6,6 +6,6 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+"Float like a butterfly" .muhammed-shibu
 
 Use the left arrow to go back!
